@@ -1,29 +1,14 @@
-# Youtube
+Youtube clone you can find sign up and sign in functionality, Search whatever you like this give you the content of that thing
 
-A video-sharing platform used to watch videos from all around the world.
+Tech-Stack: HTML,CSS,JavaScript,APIs
 
-Snap-Shot
-<img src="https://user-images.githubusercontent.com/98182315/167253298-bb8e4388-0a6e-4df7-b851-337627a37e8f.png"/>
-
-🚀 Demo
-https://youttube01.netlify.app/
-
-🧐 Features
-Here're some of the project's best features:
-
-<li>Search Video</li>
-<li>Home page with trending video</li>
-<li>Responsive</li>
+YouTube is an American online video sharing and social media platform headquartered in San Bruno, California. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. Owned by Google, it is the second most visited website, right after Google itself.I have taken Api from thwm and with the help of that Api I have created my own version of mini youtube.
 
 
-Responsive
-💻 Built with
-Technologies used in the project:
 
 
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
+![Screenshot (726)](https://user-images.githubusercontent.com/96103734/165904790-c099db12-a040-40fd-9de1-c931a6111863.png)
 
 
-Its is my first indivisual project. I created this to explore more.
+
+![Screenshot (727)](https://user-images.githubusercontent.com/96103734/165904798-7a6cf0cb-12f2-4f20-8650-3463c63afb29.png)

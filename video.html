@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Video</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles/video.css" />
+  </head>
+  <body>
+    <div class="navbar">
+      <nav>
+        <div class="logo">
+          <img
+            src="https://blog.logomyway.com/wp-content/uploads/2020/09/youtube-logo-4.jpg"
+            alt=""
+          />
+        </div>
+
+        <div class="input">
+          <input type="text" id="video" placeholder="Search" />
+          <button onclick="searchVideo()">
+            <i class="fas fa-search"></i>
+          </button>
+        </div>
+        <div class="icons">
+          <i class="fas fa-microphone"></i>
+          <i class="far fa-play-circle"></i>
+          <i class="far fa-bell"></i>
+          <p id="username">SignIn</p>
+
+          <a href="login.html">
+            <img
+              src="https://cdn-icons-png.flaticon.com/512/149/149071.png"
+              alt="preview"
+              id="imgPrev"
+            />
+          </a>
+        </div>
+      </nav>
+    </div>
+    <div id="main">
+      <div id="display"></div>
+      <div id="recc"></div>
+    </div>
+  </body>
+</html>
+
+<script src="./scripts/video.js"></script>
