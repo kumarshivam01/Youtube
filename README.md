@@ -6,9 +6,3 @@ YouTube is an American online video sharing and social media platform headquarte
 
 
 
-
-![Screenshot (726)](https://user-images.githubusercontent.com/96103734/165904790-c099db12-a040-40fd-9de1-c931a6111863.png)
-
-
-
-![Screenshot (727)](https://user-images.githubusercontent.com/96103734/165904798-7a6cf0cb-12f2-4f20-8650-3463c63afb29.png)
